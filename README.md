@@ -39,7 +39,9 @@ LibraryBot/
 **requirements.txt**
 
 flask
+
 python-dotenv
+
 openai>=1.0.0
 
 
