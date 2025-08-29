@@ -28,13 +28,20 @@ OpenAI API (gpt-4o-mini)
 
 
 🧱 Suggested Project Structure
+
 LibraryBot/
 ├─ app.py
+
 ├─ requirements.txt
+
 ├─ .env.example
+
 ├─ README.md
+
 └─ docker/
+
    ├─ Dockerfile
+   
    └─ gunicorn.conf.py
 
 
