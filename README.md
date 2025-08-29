@@ -45,7 +45,7 @@ LibraryBot/
    └─ gunicorn.conf.py
 
 
-requirements.txt
+**requirements.txt**
 
 flask
 python-dotenv
