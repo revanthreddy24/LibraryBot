@@ -25,3 +25,31 @@ Python 3.10+
 Flask (API)
 
 OpenAI API (gpt-4o-mini)
+
+
+🧱 Suggested Project Structure
+LibraryBot/
+├─ app.py
+├─ requirements.txt
+├─ .env.example
+├─ README.md
+└─ docker/
+   ├─ Dockerfile
+   └─ gunicorn.conf.py
+
+
+requirements.txt
+
+flask
+python-dotenv
+openai>=1.0.0
+
+
+
+✅ Usage Tips
+
+Keep temperature low-ish (0.4–0.7) for factual, consistent answers.
+
+If you add more local policies, append them to the system prompt.
+
+For real libraries, replace Sampleville info with current hours, loan limits, and contacts.
