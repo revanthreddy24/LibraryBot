@@ -30,6 +30,7 @@ OpenAI API (gpt-4o-mini)
 🧱 Suggested Project Structure
 
 LibraryBot/
+
 ├─ flask_chatbot.py
 
 ├─ requirements.txt
