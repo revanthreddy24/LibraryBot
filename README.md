@@ -6,6 +6,9 @@ A lightweight, student-friendly virtual library assistant that answers common qu
 
 GitHub: https://github.com/revanthreddy24/LibraryBot
 
+<img width="1918" height="1067" alt="image" src="https://github.com/user-attachments/assets/60532240-6a88-4530-a45c-eecef748c2d6" />
+
+
 ✨ Features
 
 Clear, concise answers in simple language
